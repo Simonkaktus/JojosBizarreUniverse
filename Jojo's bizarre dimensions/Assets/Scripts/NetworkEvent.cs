@@ -16,5 +16,7 @@ public class NetworkEvent : MonoBehaviour
     public void OnJoinedRoom()
     {
         CustomEvent.Trigger(this.gameObject, "OnJoinedRoom");
+
     }
+
 }
