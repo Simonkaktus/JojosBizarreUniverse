@@ -1,8 +1,6 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp-Editor.dll:
-    - PhotonTransformViewEditor
-    - PhotonViewInspector
     - PunSceneSettings
     Assembly-CSharp.dll:
     - AudioRpc
@@ -50,8 +48,6 @@ ScriptsOnlyBuild:
     Bolt.State.Runtime.dll:
     - Bolt.StateMachine
     - Bolt.StateMacro
-    Ludiq.Core.Editor.dll:
-    - Ludiq.LudiqBehaviourEditor
     Ludiq.Core.Runtime.dll:
     - Ludiq.DictionaryAsset
     Ludiq.Graphs.Editor.dll:
