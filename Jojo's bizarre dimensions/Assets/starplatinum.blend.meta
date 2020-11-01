@@ -2,7 +2,10 @@ fileFormatVersion: 2
 guid: 794d69ac62bd6f24786b73233901f99a
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -6231439046736469697
+    second: sp_starP1
   externalObjects: {}
   materials:
     materialImportMode: 1
